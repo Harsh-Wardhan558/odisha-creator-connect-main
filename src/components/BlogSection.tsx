@@ -2,10 +2,11 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Calendar, Clock, ArrowRight, Eye } from "lucide-react";
-import blog1 from "../assets/Blog1.jpg";
+import blog1 from "../assets/blog1.jpg";
 import blog2 from "../assets/blog2.jpeg";
 import blog3 from "../assets/blog3.jpg";
 import blog4 from "../assets/blog4.jpg";
+
 const BlogSection = () => {
   const blogPosts = [
     {
