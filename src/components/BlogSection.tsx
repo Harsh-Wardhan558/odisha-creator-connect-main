@@ -17,7 +17,7 @@ const BlogSection = () => {
       date: "March 15, 2024",
       readTime: "5 min read",
       views: "2.3K",
-      image: Blog1Img,
+      image: blog1,
       featured: true,
     },
     {
@@ -29,7 +29,7 @@ const BlogSection = () => {
       date: "March 12, 2024",
       readTime: "7 min read",
       views: "1.8K",
-       image: Blog2Img,
+       image: blog2,
     },
     {
       id: 3,
@@ -40,7 +40,7 @@ const BlogSection = () => {
       date: "March 10, 2024",
       readTime: "6 min read",
       views: "1.5K",
-      image: Blog3Img,
+      image: blog3,
     },
     {
       id: 4,
@@ -51,7 +51,7 @@ const BlogSection = () => {
       date: "March 8, 2024",
       readTime: "8 min read",
       views: "3.1K",
-      image: Blog4Img,
+      image: blog4,
     }
   ];
 
